@@ -2,5 +2,5 @@ playgit
 =======
 
 playgit
-branch info2
+branch info3
 master change2

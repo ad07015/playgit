@@ -2,3 +2,4 @@ playgit
 =======
 
 playgit
+branch info
